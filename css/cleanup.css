@@ -11,6 +11,6 @@
   display: none;
 }
 
-.parent #tag-4:last-child {
+.parent #tag-4:first-of-type {
   display: none;
 }
