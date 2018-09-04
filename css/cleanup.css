@@ -11,6 +11,6 @@
   display: none;
 }
 
-#tag-4 ~ .parent {
+.parent ~ #tag-4 {
   display: none;
 }
