@@ -19,6 +19,6 @@
   display: none;
 }
 
-#wall .parent div:last-child #tag-6:nth-child(6) {
+#wall .parent div:last-child #tag-6:first-child {
   display: none;
 }
