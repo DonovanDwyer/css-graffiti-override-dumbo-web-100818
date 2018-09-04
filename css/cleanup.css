@@ -11,7 +11,7 @@
   display: none;
 }
 
-.parent ~ #tag-4:empty {
+#wall .parent ~ #tag-4:empty {
   display: none;
 }
 
