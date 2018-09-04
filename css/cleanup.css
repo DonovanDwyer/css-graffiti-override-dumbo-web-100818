@@ -15,4 +15,6 @@
   display: none;
 }
 
-.parent #tag-5.
+.parent #tag-5.slick:first-child {
+  display: none;
+}
